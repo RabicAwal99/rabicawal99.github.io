@@ -1,0 +1,31 @@
+body {
+    background-color:lightblue;
+}
+
+#search-row {
+    margin-bottom: 50px;
+    
+}
+
+
+header {
+    font-size: 28px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+#legends-form {
+    margin-top: 50px;
+    border: fuchsia;
+    padding: 7px;
+}
+
+#addlegend {
+    margin-top: 10px;
+    border:yellowgreen; 
+    padding: 5px; 
+}
